@@ -4,7 +4,7 @@ It is a simple command-line based chat application built in C++. It allows users
 
 ---
 
-## 📌 Features
+## Features
 
 - User Registration & Login System
 - Secure password input with masking
@@ -17,7 +17,7 @@ It is a simple command-line based chat application built in C++. It allows users
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **C++**
 - **Windows.h** for console control
@@ -26,7 +26,7 @@ It is a simple command-line based chat application built in C++. It allows users
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 .
@@ -40,9 +40,9 @@ It is a simple command-line based chat application built in C++. It allows users
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
-> 🖥️ Windows-only due to dependencies on `windows.h` and `conio.h`
+>  Windows-only due to dependencies on `windows.h` and `conio.h`
 
 1. Open the code in **Dev C++**, **Turbo C++**, or another Windows-based C++ IDE.
 2. Compile and run `project.cpp`.
@@ -50,7 +50,7 @@ It is a simple command-line based chat application built in C++. It allows users
 
 ---
 
-## 📎 Sample Usage
+## Sample Usage
 
 1. **Register** with username, password, phone, and name.
 2. **Login** using your credentials.
