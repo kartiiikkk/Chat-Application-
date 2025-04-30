@@ -62,6 +62,3 @@ It is a simple command-line based chat application built in C++. It allows users
 
 ---
 
-## 👥 Developer Info
-
-> Add names of contributors in `TEAMS.txt` and they’ll be displayed via the app.
